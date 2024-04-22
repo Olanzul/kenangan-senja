@@ -39,6 +39,7 @@ body {
 
 .navbar .navbar-logo{
     font-size: 2rem;
+    font-style: italic;
     font-weight: 700;
     color: #fff;
 }
